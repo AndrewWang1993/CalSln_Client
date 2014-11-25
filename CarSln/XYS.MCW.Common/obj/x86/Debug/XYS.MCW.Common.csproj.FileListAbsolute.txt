@@ -1,0 +1,7 @@
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\XYS.MCW.Common\bin\Debug\XYS.MCW.Common.dll
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\XYS.MCW.Common\bin\Debug\XYS.MCW.Common.pdb
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\XYS.MCW.Common\bin\Debug\Model.dll
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\XYS.MCW.Common\bin\Debug\Model.pdb
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\XYS.MCW.Common\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\XYS.MCW.Common\obj\x86\Debug\XYS.MCW.Common.dll
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\XYS.MCW.Common\obj\x86\Debug\XYS.MCW.Common.pdb

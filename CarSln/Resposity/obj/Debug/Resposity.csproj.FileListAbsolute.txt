@@ -1,0 +1,5 @@
+C:\CommunityCar\CarSln\Resposity\bin\Debug\Resposity.dll
+C:\CommunityCar\CarSln\Resposity\bin\Debug\Resposity.pdb
+C:\CommunityCar\CarSln\Resposity\obj\Debug\ResolveAssemblyReference.cache
+C:\CommunityCar\CarSln\Resposity\obj\Debug\Resposity.dll
+C:\CommunityCar\CarSln\Resposity\obj\Debug\Resposity.pdb

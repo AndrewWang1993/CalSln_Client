@@ -1,0 +1,5 @@
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\Model\bin\Debug\Model.dll
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\Model\bin\Debug\Model.pdb
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\Model\obj\Debug\ResolveAssemblyReference.cache
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\Model\obj\Debug\Model.dll
+H:\新元素\001-项目管理\03-移动医护工作站\SVN\trunk\code\pcclient\Model\obj\Debug\Model.pdb

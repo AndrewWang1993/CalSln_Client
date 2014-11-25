@@ -1,0 +1,5 @@
+C:\CommunityCar\CarSln\Service\bin\Debug\Service.dll
+C:\CommunityCar\CarSln\Service\bin\Debug\Service.pdb
+C:\CommunityCar\CarSln\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\CommunityCar\CarSln\Service\obj\Debug\Service.dll
+C:\CommunityCar\CarSln\Service\obj\Debug\Service.pdb

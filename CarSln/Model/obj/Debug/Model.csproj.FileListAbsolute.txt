@@ -1,0 +1,15 @@
+C:\CommunityCar\CarSln\Model\bin\Debug\Model.dll
+C:\CommunityCar\CarSln\Model\bin\Debug\Model.pdb
+C:\CommunityCar\CarSln\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\CommunityCar\CarSln\Model\obj\Debug\Model.dll
+C:\CommunityCar\CarSln\Model\obj\Debug\Model.pdb
+C:\Users\wangxm-wr\Desktop\CommunityCar\CarSln\Model\bin\Debug\Model.dll
+C:\Users\wangxm-wr\Desktop\CommunityCar\CarSln\Model\bin\Debug\Model.pdb
+C:\Users\wangxm-wr\Desktop\CommunityCar\CarSln\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\wangxm-wr\Desktop\CommunityCar\CarSln\Model\obj\Debug\Model.dll
+C:\Users\wangxm-wr\Desktop\CommunityCar\CarSln\Model\obj\Debug\Model.pdb
+D:\车牌预约服务器和客户端\CommunityCar\CarSln\Model\bin\Debug\Model.dll
+D:\车牌预约服务器和客户端\CommunityCar\CarSln\Model\bin\Debug\Model.pdb
+D:\车牌预约服务器和客户端\CommunityCar\CarSln\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\车牌预约服务器和客户端\CommunityCar\CarSln\Model\obj\Debug\Model.dll
+D:\车牌预约服务器和客户端\CommunityCar\CarSln\Model\obj\Debug\Model.pdb
